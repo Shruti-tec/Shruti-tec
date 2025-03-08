@@ -1,3 +1,4 @@
+![logo](https://github.com/Shruti-tec/Shruti-tec/blob/main/Beige%20and%20Brown%20Minimalist%20Simple%20Working%20From%20Home%20Blog%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Shruti Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="350"src="https://cdn.dribbble.com/userupload/25043962/file/original-ca87df75747127e38c2049c72e374e5b.gif">
